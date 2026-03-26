@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/certichain-project/static/css/main.2354dfc9.css",
+    "main.js": "/certichain-project/static/js/main.198178f4.js",
+    "static/js/453.825386d9.chunk.js": "/certichain-project/static/js/453.825386d9.chunk.js",
+    "index.html": "/certichain-project/index.html",
+    "main.2354dfc9.css.map": "/certichain-project/static/css/main.2354dfc9.css.map",
+    "main.198178f4.js.map": "/certichain-project/static/js/main.198178f4.js.map",
+    "453.825386d9.chunk.js.map": "/certichain-project/static/js/453.825386d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2354dfc9.css",
+    "static/js/main.198178f4.js"
+  ]
+}
